@@ -6,7 +6,7 @@
     i18n: ctc_des
   date:
     detail: May. 2013
-    i18n: nextcode_date
+    i18n: ctc_date
   job:
     detail: Android Developer
     i18n: ctc_job
@@ -17,12 +17,12 @@
     i18n: Hi-Sun
   desc:
     detail: In Hi-sun, I started to develop android app.
-    i18n: ucloud_des
+    i18n: Hi-Sun_des
   date:
     detail: Mar. 2012
-    i18n: ucloud_date
+    i18n: Hi-Sun_date
   job:
-    detail: Hi-sun
+    detail: dev app
     i18n: hi-sun_job
   icon: fa-cloud
 
