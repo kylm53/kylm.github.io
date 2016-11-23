@@ -1,0 +1,41 @@
+- name:
+    detail: CTC
+    i18n: CTC
+  desc:
+    detail: Now I am in CTC and develop android app.
+    i18n: ctc_des
+  date:
+    detail: May. 2013
+    i18n: nextcode_date
+  job:
+    detail: Android Developer
+    i18n: ctc_job
+  icon: fa-plus-square
+
+- name:
+    detail: Hi-Sun
+    i18n: Hi-Sun
+  desc:
+    detail: In Hi-sun, I started to develop android app.
+    i18n: ucloud_des
+  date:
+    detail: Mar. 2012
+    i18n: ucloud_date
+  job:
+    detail: Hi-sun
+    i18n: hi-sun_job
+  icon: fa-cloud
+
+- name:
+    detail: Graduation
+    i18n: college
+  desc:
+    detail: At July 2012,I graduated from college and started my IT technology tour.
+    i18n: college_des
+  date:
+    detail: Jul. 2012
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-book
