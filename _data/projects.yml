@@ -1,5 +1,5 @@
 - name: 'KWeather'
-  i18n: 'KWeather'
+  i18n: 'kweather'
   url: '/kylm53/KWeather'
   img: 'static/img/landing/kweather.png'
   desc: 'KWeather is a simple weather app on android. It show local weather, and you can select other city.'

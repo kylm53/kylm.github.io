@@ -1,6 +1,6 @@
 - name:
     detail: CTC
-    i18n: CTC
+    i18n: ctc
   desc:
     detail: Now I am in CTC and develop android app.
     i18n: ctc_des
@@ -14,13 +14,13 @@
 
 - name:
     detail: Hi-Sun
-    i18n: Hi-Sun
+    i18n: hi-sun
   desc:
     detail: In Hi-sun, I started to develop android app.
-    i18n: Hi-Sun_des
+    i18n: hi-sun_des
   date:
     detail: Mar. 2012
-    i18n: Hi-Sun_date
+    i18n: hi-sun_date
   job:
     detail: dev app
     i18n: hi-sun_job
