@@ -1,11 +1,11 @@
 - name: Blog
   href: '/blog/'
 
-- name: Python
-  href: '/python/'
+- name: Java
+  href: '/java/'
 
-- name: Linux
-  href: '/linux/'
+- name: Android
+  href: '/android/'
 
 - name: HTML
   href: '/html/'
@@ -13,8 +13,8 @@
 - name: Database
   href: '/database/'
 
-- name: Mac
-  href: '/mac/'
+- name: React Native
+  href: '/react_native/'
 
 - name: Life
   href: '/life/'
